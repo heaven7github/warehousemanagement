@@ -1,0 +1,10 @@
+{
+  "2": {
+    "name": "Test manufacturer",
+    "quality": 5
+  },
+  "3": {
+    "name": "Other test manufacturer",
+    "quality": 3
+  }
+}

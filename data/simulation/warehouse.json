@@ -1,0 +1,14 @@
+{
+    "2": {
+        "name": "Szimul\u00e1ci\u00f3 rakt\u00e1r",
+        "address": "Szimul\u00e1ci\u00f3 c\u00edm",
+        "capacity": 5,
+        "id": 2
+    },
+    "3": {
+        "name": "Szimul\u00e1ci\u00f3 rakt\u00e1r 2",
+        "address": "Szimul\u00e1ci\u00f3 c\u00edm 2",
+        "capacity": 0,
+        "id": 3
+    }
+}

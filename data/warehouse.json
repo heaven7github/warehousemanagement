@@ -1,0 +1,38 @@
+{
+    "2": {
+        "name": "Els\u0151 teszt rakt\u00e1r",
+        "address": "Budapest",
+        "capacity": 9,
+        "id": 2
+    },
+    "3": {
+        "name": "Mell\u00e9k rakt\u00e1r",
+        "address": "Szeged",
+        "capacity": 10,
+        "id": 3
+    },
+    "4": {
+        "name": "Test rakt\u00e1r #45",
+        "address": "Budapest, 1111. Teszt utca 11",
+        "capacity": 10,
+        "id": 4
+    },
+    "5": {
+        "name": "M\u00e1sik teszt rakt\u00e1r",
+        "address": "Szeged, F\u0151 utca 1",
+        "capacity": 1,
+        "id": 5
+    },
+    "6": {
+        "name": "K\u00f6zponti rakt\u00e1r",
+        "address": "Eger, Pet\u0151fi utca 1",
+        "capacity": 7,
+        "id": 6
+    },
+    "7": {
+        "name": "Soroks\u00e1ri rakt\u00e1r",
+        "address": "Soroks\u00e1r",
+        "capacity": 10,
+        "id": 7
+    }
+}

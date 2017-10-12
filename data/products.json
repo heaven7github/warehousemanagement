@@ -1,0 +1,29 @@
+{
+  "2": {
+    "type": "simple",
+    "name": "term\u00e9k",
+    "weight": 31,
+    "price": 1200,
+    "sku": "10001",
+    "id": 2,
+    "manufacturer_id": 2
+  },
+  "3": {
+    "type": "configurable",
+    "name": "Csomag",
+    "price": 3200,
+    "sku": "10002",
+    "items": "Elem 1, elem 2",
+    "id": 3,
+    "manufacturer_id": 3
+  },
+  "4": {
+    "type": "configurable",
+    "name": "Csomag 1",
+    "price": 3400,
+    "sku": "10003",
+    "items": "Elem 3, elem 4",
+    "id": 4,
+    "manufacturer_id": 3
+  }
+}
